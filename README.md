@@ -31,12 +31,12 @@ $ pirateflix --help
 
 ```sh
 $ pirateflix # will open movie wizard
-$ pirateflix --search="Interstellar" # will permorf a search
+$ pirateflix --search="Interstellar" # will perform a search
 ```
 
 ## Overview
 
-Make sure you have VLC installed, it might take a while until the movie starts depeding on the number
+Make sure you have VLC installed, it might take a while until the movie starts depending on the number
 of seeders/leechers. The movie will start streaming at `http://localhost:8888` you can always
 manually access and check it out.
 
