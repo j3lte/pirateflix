@@ -37,7 +37,7 @@
     "lodash": "^4.7.0",
     "meow": "^3.7.0",
     "ora": "^0.2.1",
-    "peerflix": "^0.32.4"
+    "peerflix": "^0.36.0"
   },
   "devDependencies": {
     "babel-cli": "^6.6.5",
